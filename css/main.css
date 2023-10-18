@@ -1,3 +1,12 @@
+body {
+  background-color: #FFFFFF;
+  color: #83869A;
+  font-family: Plus Jakarta Sans, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.6;
+}
+
 h1,
 h2,
 h3,
@@ -17,4 +26,11 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+.container {
+  outline: 1px solid tomato;
+  width: 375px;
+  margin: 0 auto;
+  padding: 0 16px;
 }/*# sourceMappingURL=main.css.map */
