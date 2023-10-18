@@ -1,3 +1,11 @@
+.courses__list {
+  list-style: none;
+}
+
+.courses__link {
+  text-decoration: none;
+}
+
 body {
   background-color: #FFFFFF;
   color: #83869A;

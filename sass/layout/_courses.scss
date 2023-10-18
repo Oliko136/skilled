@@ -1,0 +1,7 @@
+.courses__list {
+    @extend %list;
+}
+
+.courses__link {
+    @extend %link;
+}
