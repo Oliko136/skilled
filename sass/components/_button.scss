@@ -1,0 +1,24 @@
+.button {
+    padding: 11px 24px;
+
+    border: transparent;
+    border-radius: 28px;
+
+    background-color: $secondary-bg-color;
+    color: $secondary-text-color;
+
+    font-weight: 700;
+    line-height: 1.75;
+
+    cursor: pointer;
+}
+
+.button--hero {
+    padding: 15px 38px;
+    
+    background-image: $accent-gradient;
+}
+
+.button--footer {
+    background-image: linear-gradient(#4851FF, #F02AA6);
+}

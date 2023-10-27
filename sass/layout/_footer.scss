@@ -1,0 +1,11 @@
+.footer {
+    padding: 36px 0;
+    
+    background-color: $secondary-bg-color;
+}
+
+.footer__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
